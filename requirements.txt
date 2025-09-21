@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 # Core Web App & Data Handling
 streamlit
 pandas
@@ -10,7 +12,7 @@ python-docx
 spacy==3.7.5
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz#egg=en_core_web_sm
 sentence-transformers
-torch --extra-index-url https://download.pytorch.org/whl/cpu
+torch
 transformers
 
 # Generative AI
