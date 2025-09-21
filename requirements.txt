@@ -1,0 +1,22 @@
+# Core Web App & Data Handling
+streamlit
+pandas
+
+# File Parsing
+PyMuPDF
+python-docx
+
+# NLP & Semantic Analysis
+spacy
+sentence-transformers
+torch
+transformers
+
+# Generative AI
+google-generativeai
+
+# Other necessary dependencies (pip freeze will include specific versions)
+numpy
+requests
+Pillow
+protobuf
